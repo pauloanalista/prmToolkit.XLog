@@ -1,0 +1,17 @@
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.deps.json
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.dll
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.pdb
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.csproj.CoreCompileInputs.cache
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.AssemblyInfoInputs.cache
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.AssemblyInfo.cs
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.dll
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.pdb
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.Log\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.csprojResolveAssemblyReference.cache
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.deps.json
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.dll
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\bin\Release\netstandard2.0\prmToolkit.XLog.Domain.pdb
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.csproj.CoreCompileInputs.cache
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.AssemblyInfoInputs.cache
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.AssemblyInfo.cs
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.dll
+C:\_Paulo\POCs\prmToolkit.Log\prmToolkit.XLog.Domain\obj\Release\netstandard2.0\prmToolkit.XLog.Domain.pdb

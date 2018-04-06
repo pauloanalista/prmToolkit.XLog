@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\prmToolkit.XLog.Domain\prmToolkit.XLog.Domain.csproj" />
+    <ProjectReference Include="..\prmToolkit.XLog.SqlServer\prmToolkit.XLog.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>
